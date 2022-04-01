@@ -1,5 +1,5 @@
 # AirsimTutorial
-Some ontes for airsim using
+Some notes for airsim using
 
 
 # Event
